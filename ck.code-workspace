@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"livePreview.defaultPreviewPath": "c:\\Users\\STUDENT\\Desktop\\adminhub-master\\post.html"
+	}
+}
